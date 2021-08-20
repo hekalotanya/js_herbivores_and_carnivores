@@ -34,11 +34,11 @@ Animal.alive === [
   {name: 'Bembi', health: 50},
   {name: 'Bagira', health: 100},
   {name: 'King', health: 100},
-  {name: 'Max', health: 100},
+  {name: 'Max',er);
+rabbit.hide(); health: 100},
 ];
 
-panther.bite(deer);
-rabbit.hide();
+panther.bite(de
 panther.bite(rabbit);
 
 Animal.alive === [
